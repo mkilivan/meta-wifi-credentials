@@ -30,7 +30,7 @@ where <configuration> is one of the following:
 II. Misc
 ========
 
-This layer contains demo recipes used at SCALE 17 to show how to add WiFi
+This layer contains demo recipes to show how to add WiFi
 credentials and network management utilities in OpenEmbedded builds.
 
 Note that WiFi passwords are stored directly in this repo which is visible
