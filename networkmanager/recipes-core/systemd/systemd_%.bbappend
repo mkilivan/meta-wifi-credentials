@@ -1,1 +1,1 @@
-PACKAGECONFIG_remove = "networkd resolved"
+PACKAGECONFIG_remove = "networkd"
